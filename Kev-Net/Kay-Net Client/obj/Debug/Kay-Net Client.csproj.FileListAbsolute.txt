@@ -1,0 +1,8 @@
+C:\Users\kevin\source\repos\Kev-Net\Kay-Net Client\obj\Debug\Kay-Net Client.csprojResolveAssemblyReference.cache
+C:\Users\kevin\source\repos\Kev-Net\Kay-Net Client\obj\Debug\Kay-Net Client.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Kev-Net\Kay-Net Client\bin\Debug\Kay-Net Client.exe
+C:\Users\kevin\source\repos\Kev-Net\Kay-Net Client\bin\Debug\Kay-Net Client.pdb
+C:\Users\kevin\source\repos\Kev-Net\Kay-Net Client\bin\Debug\Kev-Net SocketBuffer.dll
+C:\Users\kevin\source\repos\Kev-Net\Kay-Net Client\bin\Debug\Kev-Net SocketBuffer.pdb
+C:\Users\kevin\source\repos\Kev-Net\Kay-Net Client\obj\Debug\Kay-Net Client.exe
+C:\Users\kevin\source\repos\Kev-Net\Kay-Net Client\obj\Debug\Kay-Net Client.pdb
